@@ -78,30 +78,6 @@ Studied spread and frequency of debt values.
 ## Outlier Detection
 Detected extreme debt observations using boxplots.
 
----
-
-# Sample Visualizations
-
-## Global Debt Trend
-![Trend](images/trend.png)
-
-## Dashboard
-![Dashboard](images/dashboard.png)
-
----
-
-# Machine Learning Model
-
-Model Used:
-- Linear Regression
-
-Target Variable:
-- OBS_VALUE
-
-Feature Used:
-- TIME_PERIOD
-
----
 
 # Project Structure
 
@@ -140,7 +116,5 @@ This project demonstrates:
 - Data cleaning
 - Exploratory data analysis
 - Visualization
-- Dashboarding
-- Machine learning forecasting
 
 using real-world fiscal and sovereign debt data.
